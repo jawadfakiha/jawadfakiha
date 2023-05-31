@@ -1,7 +1,7 @@
 ![MasterHead](https://pbs.twimg.com/media/CtCQtpYWcAALj8T?format=jpg&name=medium)
 <h1 align="center">Hi 👋, I'm Jawad Fakiha</h1>
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadfakiha&label=Profile%20views&color=0e75b6&style=flat" alt="jawadfakiha" /> </p>
 
